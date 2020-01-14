@@ -18,3 +18,5 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab6-mic
 | 737069 | [Andrew Mackay](https://github.com/AndrewKM210) |[test](https://github.com/AndrewKM210/lab6-microservices/tree/test) | |
 | 679301 | [Fernando Bercedo](https://github.com/ferbercedo) |[test](https://github.com/ferbercedo/lab6-microservices/tree/test) | |
 | 721525 | [Daniel Fraile](https://github.com/DanFzgz) |[test](https://github.com/DanFzgz/lab6-microservices/tree/test) | |
+
+| 721529 | [Jorge Fernandez](https://github.com/jorge97fernandez) |[test](https://github.com/jorge97fernandez/lab6-microservices/tree/test) | |
